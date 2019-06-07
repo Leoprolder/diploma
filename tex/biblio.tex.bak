@@ -1,0 +1,15 @@
+\renewcommand{\bibname}{СПИСОК ЛИТЕРАТУРЫ}%название библиографии в тексте, не в оглавлении
+
+\begin{thebibliography}{21}
+\addcontentsline{toc}{section}{ \hspace{-0.9cm}СПИСОК ЛИТЕРАТУРЫ}%название списка литературы в оглавлении
+
+\bibitem{Book} Первый А.А. Название книги / А.А.~Первый, Б.Б.~Второй. -- Город: Издательство, год.\vspace{-2mm}
+\bibitem{Article}  Первый А.А. Название статьи / А.А.~Первый, Б.Б.~Второй // Название журнала. -- год. -- Т.~том, \No~номер. -- С.~стр--стр.
+\bibitem{Book_eng} Author A.A., Author B.B. \textit{Title of Book}. Сity, Publisher, Year.
+\bibitem{Article_eng} Author A.A., Author B.B. Title of Article. {\it Title of Journal}, Year, vol.~8, no.~1, issue~1, pp.~11--111.
+\bibitem{E-journal} Author A.A., Author B.B. Title of Article. {\it Title of Journal}, Year, vol.~8, no.~1, issue~1, available at: www.cite.
+\bibitem{DOI_1 Article} Author A.A., Author B.B. Title of Article. {\it Title of Journal}, Year, vol.~8, no.~1, issue~1, pp.~11--111. doi:~10.1002/adma.200501500
+\bibitem{DOI_2 Article} Author A.A., Author B.B. Title of Article. {\it Title of Journal}, Year, vol.~8, no.~1, issue~1, pp.~11--111. doi:~10.1134/S1023193508080077
+\bibitem{materials of a conference_eng} Author A.A., Author B.B. Title of Report. {\it Title of Conference}. Сity, Publisher, Year, pp.~11--111.
+\bibitem{Inet source} Название ресурса, доступ: http://www.attribution (дата обращения -- 18 мая 2019).
+\end{thebibliography} 
