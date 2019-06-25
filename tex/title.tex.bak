@@ -17,11 +17,9 @@
 
 \vspace{10mm}
 
-\large
 \begin{center}
-АНАЛИЗ И ПРОГНОЗИРОВАНИЕ ЦЕН АКЦИЙ SAMSUNG ELECTRONICS CO.
+\singleint{Анализ и прогнозирование динамики цен акций Samsung Electronics Co.}
 \end{center}
-\normalsize
 
 \begin{center}
 \singleint{ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА
@@ -37,7 +35,7 @@
 \begin{minipage}{0.5\textwidth}
   \begin{flushleft}
  \singleint{~\linebreak
- \forsignature{Руководитель работы, \verb"доцент"}{\verb"кафедры, к.ф.-м.н., доцент"}{\verb"М.А Сагадеева"}
+ \forsignature{Руководитель работы, доцент}{кафедры, к.ф.-м.н., доцент}{М.А Сагадеева}
  ~\linebreak ~\linebreak
  \forsignature{Автор работы,}{студент группы ЕТ-411}{А.С. Клепиков}
   ~\linebreak ~\linebreak

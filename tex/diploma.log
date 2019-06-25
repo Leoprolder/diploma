@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  7 JUN 2019 12:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  26 JUN 2019 02:29
 entering extended mode
 **C:/!repositories/diploma/tex/diploma.tex
 (C:/!repositories/diploma/tex/diploma.tex
@@ -445,11 +445,7 @@ LaTeX Font Info:    Try loading font information for T2A+cmr on input line 20.
 
 (C:\Users\Tortopus\Desktop\Full_TeX\texmf\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-
-LaTeX Warning: Label `Book' multiply defined.
-
-)
+))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -469,7 +465,8 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Try loading font information for OT1+ftm on input line 6.
- (C:\Users\Tortopus\Desktop\Full_TeX\localtexmf\tex\latex\pscyr\ot1ftm.fd
+
+(C:\Users\Tortopus\Desktop\Full_TeX\localtexmf\tex\latex\pscyr\ot1ftm.fd
 File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
 )
 LaTeX Font Info:    Try loading font information for T2A+ftm on input line 6.
@@ -579,135 +576,964 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--9
 [1
 
 {C:/Users/Tortopus/Desktop/Full_TeX/texmf/pdftex/config/pdftex.map}]
-(C:\!repositories\diploma\tex\summary.tex) [2]
-(C:\!repositories\diploma\tex\diploma.toc [3])
+(C:\!repositories\diploma\tex\summary.tex
+Overfull \hbox (6.28902pt too wide) in paragraph at lines 19--20
+[][]\T2A/ftm/m/n/14.4 Данная вы-пуск-ная ква-ли-фи-ка-ци-он-ная ра-бо-та по-свя
+-ще-на раз-ра-бот-ке при-
+ []
+
+) [2] (C:\!repositories\diploma\tex\diploma.toc [3])
 \tf@toc=\write4
- [4] [5]
-LaTeX Font Info:    Try loading font information for OMS+ftm on input line 36.
-LaTeX Font Info:    No file OMSftm.fd. on input line 36.
-
-
-LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 36.
-
-[6]
-Overfull \hbox (13.61852pt too wide) in paragraph at lines 42--43
-[][]\T2A/ftm/m/n/14.4 Аналог при-ви-ле-ги-ро-ван-ных ак-ций  ак-ция учре-ди-те
-ль-ская (ан-гл. founders
- []
-
-[7] [8] [9]
-Overfull \hbox (33.36607pt too wide) in paragraph at lines 96--97
-[][]\T2A/ftm/m/n/14.4 HtmlAgilityPack. Дан-ный па-кет поз-во-ля-ет по-лу-чать h
-tml-код веб-страницы
- []
-
-<images/git.PNG, id=220, 447.92343pt x 283.0575pt>
-File: images/git.PNG Graphic file (type png)
- <use images/git.PNG>
-Package pdftex.def Info: images/git.PNG used on input line 111.
-(pdftex.def)             Requested size: 375.57782pt x 237.3477pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10] [11 <C:/!repositories/diploma/tex/images/git.PNG>]
-<images/algorithm.PNG, id=232, 121.45375pt x 573.14125pt>
-File: images/algorithm.PNG Graphic file (type png)
-
-<use images/algorithm.PNG>
-Package pdftex.def Info: images/algorithm.PNG used on input line 142.
-(pdftex.def)             Requested size: 79.80911pt x 376.61276pt.
- [12 <C:/!repositories/diploma/tex/images/algorithm.PNG>] <images/PredictorFact
-oryUml.PNG, id=242, 693.59125pt x 324.21124pt>
-File: images/PredictorFactoryUml.PNG Graphic file (type png)
-
-<use images/PredictorFactoryUml.PNG>
-Package pdftex.def Info: images/PredictorFactoryUml.PNG used on input line 155.
-
-(pdftex.def)             Requested size: 469.47049pt x 219.45647pt.
- [13 <C:/!repositories/diploma/tex/images/PredictorFactoryUml.PNG>] [14]
-Overfull \hbox (28.59613pt too wide) in paragraph at lines 188--189
-\T2A/ftm/m/n/14.4 про-шед-ших ко-ти-ро-вок ва-лют-ной па-ры, ана-ли-за ли-ний с
-о-про-тив-ле-ния/поддержки
+ [4] [5] [6]
+Overfull \hbox (0.80266pt too wide) in paragraph at lines 56--57
+[][]\T2A/ftm/m/n/14.4 ѕSamsung Electronics Co.ї яв-ля-ет-ся ча-стью юж-но-ко-ре
+й-ской груп-пы ком-
  []
 
 
-Overfull \hbox (7.06673pt too wide) in paragraph at lines 202--203
+Overfull \hbox (4.9065pt too wide) in paragraph at lines 65--66
+[][]\T2A/ftm/m/n/14.4 Компания яв-ля-ет-ся круп-ным по-став-щи-ком для та-ких к
+ом-па-ний как Sony,
+ []
+
+[7] [8] [9] [10] [11]
+Overfull \hbox (7.06673pt too wide) in paragraph at lines 140--141
 [][]\T2A/ftm/m/n/14.4 Авторегрессионное сколь-зя-щее сред-нее (ARMA), так-же на
 -зы-ва-е-мая ино-
  []
 
-[15]
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 204.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 142.
 
 Missing character: There is no с in font cmr12!
-
-Overfull \hbox (7.10994pt too wide) in paragraph at lines 228--229
-[][]\T2A/ftm/m/n/14.4 Отметим, что су-ще-ству-ет несколь-ко ва-ри-ан-тов ба-зо-
-во-го ал-го-рит-ма, здесь
+[12] [13] [14]
+Overfull \hbox (4.66173pt too wide) in paragraph at lines 212--213
+[][]\T2A/ftm/m/n/14.4 Заключительным и наи-бо-лее важ-ным эта-пом ме-то-да "Гу-
+се-ни-ца"является
  []
 
-[16] [17]
-Overfull \hbox (2.01215pt too wide) in paragraph at lines 257--258
-[][]\T2A/ftm/m/n/14.4 Таким об-ра-зом, про-це-ду-ра "Гу-се-ни-ца"порождает на-б
-ор ли-ней-ных филь-
+[15] [16]
+Overfull \hbox (33.36607pt too wide) in paragraph at lines 247--248
+[][]\T2A/ftm/m/n/14.4 HtmlAgilityPack. Дан-ный па-кет поз-во-ля-ет по-лу-чать h
+tml-код веб-страницы
  []
 
-[18] [19] <images/analitycsAlgorithm.PNG, id=288, 382.42876pt x 703.62875pt>
+[17] <images/git-stages.PNG, id=320, 368.37625pt x 408.52625pt>
+File: images/git-stages.PNG Graphic file (type png)
+
+<use images/git-stages.PNG>
+Package pdftex.def Info: images/git-stages.PNG used on input line 270.
+(pdftex.def)             Requested size: 375.57782pt x 416.51048pt.
+ [18] [19 <C:/!repositories/diploma/tex/images/git-stages.PNG>] <images/git.PNG
+, id=343, 447.92343pt x 283.0575pt>
+File: images/git.PNG Graphic file (type png)
+
+<use images/git.PNG>
+Package pdftex.def Info: images/git.PNG used on input line 287.
+(pdftex.def)             Requested size: 375.57782pt x 237.3477pt.
+ [20 <C:/!repositories/diploma/tex/images/git.PNG>]
+<images/algorithm.PNG, id=350, 121.45375pt x 573.14125pt>
+File: images/algorithm.PNG Graphic file (type png)
+
+<use images/algorithm.PNG>
+Package pdftex.def Info: images/algorithm.PNG used on input line 320.
+(pdftex.def)             Requested size: 79.80911pt x 376.61276pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21] <images/PredictorFactoryUml.PNG, id=363, 693.59125pt x 324.21124pt>
+File: images/PredictorFactoryUml.PNG Graphic file (type png)
+
+<use images/PredictorFactoryUml.PNG>
+Package pdftex.def Info: images/PredictorFactoryUml.PNG used on input line 333.
+
+(pdftex.def)             Requested size: 469.47049pt x 219.45647pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <C:/!repositories/diploma/tex/images/algorithm.PNG>] [23 <C:/!repositories/
+diploma/tex/images/PredictorFactoryUml.PNG>] [24]
+<images/analitycsAlgorithm.PNG, id=388, 382.42876pt x 703.62875pt>
 File: images/analitycsAlgorithm.PNG Graphic file (type png)
 
 <use images/analitycsAlgorithm.PNG>
-Package pdftex.def Info: images/analitycsAlgorithm.PNG used on input line 291.
+Package pdftex.def Info: images/analitycsAlgorithm.PNG used on input line 390.
 (pdftex.def)             Requested size: 234.73524pt x 431.88629pt.
- [20 <C:/!repositories/diploma/tex/images/analitycsAlgorithm.PNG>] (C:\!reposit
-ories\diploma\tex\biblio.tex [21]
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-[][]\T2A/ftm/m/n/14.4 GitHub.com, до-ступ: 2. https://github.com/zzzprojects/ht
-ml-agility-
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25] <images/example.PNG, id=397, 703.87968pt x 350.81062pt>
+File: images/example.PNG Graphic file (type png)
+
+<use images/example.PNG>
+Package pdftex.def Info: images/example.PNG used on input line 403.
+(pdftex.def)             Requested size: 375.57782pt x 187.18668pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/example1.PNG, id=399, 703.87968pt x 350.81062pt>
+File: images/example1.PNG Graphic file (type png)
+
+<use images/example1.PNG>
+Package pdftex.def Info: images/example1.PNG used on input line 412.
+(pdftex.def)             Requested size: 375.57782pt x 187.18668pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26 <C:/!repositories/diploma/tex/images/analitycsAlgorithm.PNG>]
+<images/ssa.PNG, id=408, 703.87968pt x 350.81062pt>
+File: images/ssa.PNG Graphic file (type png)
+ <use images/ssa.PNG>
+Package pdftex.def Info: images/ssa.PNG used on input line 427.
+(pdftex.def)             Requested size: 375.57782pt x 187.18668pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27 <C:/!repositories/diploma/tex/images/example.PNG> <C:/!repositories/diploma
+/tex/images/example1.PNG>]
+Overfull \hbox (24.37695pt too wide) in paragraph at lines 434--434
+[]\T2A/ftm/bx/n/14.4 Прогнозирование ди-на-ми-ки из-ме-не-ния цен ак-ций ѕSamsu
+ng Electronics
  []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 310.
- [22pdfTeX warning (ext4): destination with the same identifier (name{cite.Book
-}) has been already used, duplicate ignored
+<images/predict.PNG, id=415, 703.87968pt x 350.81062pt>
+File: images/predict.PNG Graphic file (type png)
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.310 \end{document}
-                    ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 310.
+<use images/predict.PNG>
+Package pdftex.def Info: images/predict.PNG used on input line 439.
+(pdftex.def)             Requested size: 375.57782pt x 187.18668pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[28 <C:/!repositories/diploma/tex/images/ssa.PNG>]
+<images/investing.PNG, id=422, 250.68657pt x 294.34969pt>
+File: images/investing.PNG Graphic file (type png)
+
+<use images/investing.PNG>
+Package pdftex.def Info: images/investing.PNG used on input line 449.
+(pdftex.def)             Requested size: 234.73524pt x 275.63324pt.
+ [29 <C:/!repositories/diploma/tex/images/predict.PNG> <C:/!repositories/diplom
+a/tex/images/investing.PNG>] [30] [31]
+(C:\!repositories\diploma\tex\biblio.tex [32]
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[][]\T2A/ftm/m/n/14.4 GitHub.com, до-ступ: https://github.com/zzzprojects/html-
+agility-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\T2A/ftm/m/n/14.4 pack/tree/master/docs2/pages/documentations (да-та об-ра-ще-н
+ия -- 7
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[][]\T2A/ftm/m/n/14.4 MachineLearning.ru, до-ступ: http://www.machinelearning.r
+u/
+ []
+
+) [33]
+Overfull \hbox (107.89034pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 System.Windows.Forms.Timer tSamsung = new System.W
+indows.Forms.Timer();[] 
+ []
+
+
+Overfull \hbox (20.18996pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 string samsung_path = "@/data/Samsung-electronincs
+-Co.txt";[] 
+ []
+
+[34]
+Overfull \hbox (144.43216pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 private async Task<string> FindValue(string Url, O
+bject sender, EventArgs e)[] 
+ []
+
+
+Overfull \hbox (159.04889pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 CancellationTokenSource cancelTokenSource = ne
+w CancellationTokenSource();[] 
+ []
+
+
+Overfull \hbox (677.9428pt too wide) in paragraph at lines 818--818
+[]                        \T2A/cmtt/m/n/14.4 string openState = doc.DocumentNod
+e.SelectNodes("//*[@id=\"quotes_summary_current_data\"]/div[1]/div[2]/div[2]/te
+xt()")[2].InnerText;[] 
+ []
+
+
+Overfull \hbox (670.63443pt too wide) in paragraph at lines 818--818
+[]                        \T2A/cmtt/m/n/14.4 parsedValue = openState.ToLower().
+Contains("закрыт") ? "closed" : doc.DocumentNode.SelectNodes("//*[@id='last_las
+t']")[0].InnerText;[] 
+ []
+
+[35]
+Overfull \hbox (370.99147pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 tSamsung.Interval = timeout * 10; //Уменьш
+ение частоты проверки в случае закрытой биржи до 10 минут[] 
+ []
+
+
+Overfull \hbox (85.96524pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 /// Метод асинхронно получает значение акции и зап
+исывает его в файл[] 
+ []
+
+
+Overfull \hbox (151.74052pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 /// <param name="url">Ссылка на страницу со значен
+ием стоимости акции</param>[] 
+ []
+
+
+Overfull \hbox (78.65688pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 private async void GetValue(string url, Object sen
+der, EventArgs e)[] 
+ []
+
+
+Overfull \hbox (319.83292pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 textBox1.Text += $"{date.ToString("dd.MM.y
+y hh:mm")} | Торги закрыты.{Environment.NewLine}";[] 
+ []
+
+
+Overfull \hbox (64.04015pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 string line = $"{date.ToString("dd.MM.yy hh:mm
+")} | {value}";[] 
+ []
+
+[36]
+Overfull \hbox (188.28235pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 using (FileStream fs = new FileStream(samsungJ
+sonData, FileMode.OpenOrCreate))[] 
+ []
+
+
+Overfull \hbox (334.44965pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 DataContractJsonSerializer jsonFormatter =
+ new DataContractJsonSerializer(typeof(List<Data>));[] 
+ []
+
+
+Overfull \hbox (71.34851pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 /// Читает json-файл со значениями даты и цены и в
+озвращает список[] 
+ []
+
+
+Overfull \hbox (305.21619pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 DataContractJsonSerializer jsonFormatter = new
+ DataContractJsonSerializer(typeof(List<Data>));[] 
+ []
+
+
+Overfull \hbox (107.89034pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 using (FileStream fs = new FileStream(path, Fi
+leMode.OpenOrCreate))[] 
+ []
+
+
+Overfull \hbox (122.50706pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 List<Data> dataList = jsonFormatter.ReadOb
+ject(fs) as List<Data>;[] 
+ []
+
+[37]
+Overfull \hbox (137.1238pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 tSamsung.Tick += (timer, arguments) => GetValu
+e(samsungUrl, sender, e);[] 
+ []
+
+
+Overfull \hbox (159.04889pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 //При загрузке формы читаем файл и заполня
+ем список значениями из него[] 
+ []
+
+
+Overfull \hbox (5.57323pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 foreach(Data data in ReadValues(samsungJso
+nData))[] 
+ []
+
+[38]
+Overfull \hbox (34.80669pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 private void textBox1_TextChanged(object sender, E
+ventArgs e)[] 
+ []
+
+
+Overfull \hbox (137.1238pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 series.Points.AddXY(samsungValues[i].Date,
+ samsungValues[i].Value);[] 
+ []
+
+[39]
+Overfull \hbox (107.89034pt too wide) in paragraph at lines 818--818
+[]                    \T2A/cmtt/m/n/14.4 predictorFactory = new PredictorFactor
+y(PredictorTypes.MA);[] 
+ []
+
+
+Overfull \hbox (122.50706pt too wide) in paragraph at lines 818--818
+[]                    \T2A/cmtt/m/n/14.4 predictorFactory = new PredictorFactor
+y(PredictorTypes.ARMA);[] 
+ []
+
+
+Overfull \hbox (115.1987pt too wide) in paragraph at lines 818--818
+[]                    \T2A/cmtt/m/n/14.4 predictorFactory = new PredictorFactor
+y(PredictorTypes.SSA);[] 
+ []
+
+
+Overfull \hbox (20.18996pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 List<Double> predictedValues1 = new List<d
+ouble>();[] 
+ []
+
+
+Overfull \hbox (5.57323pt too wide) in paragraph at lines 818--818
+[]                    \T2A/cmtt/m/n/14.4 predictedValues1.Add(samsungValues[i].
+Value);[] 
+ []
+
+
+Overfull \hbox (173.66562pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 List<Double> copy = MAPredictor.PredictLis
+t(predictedValues1, accuracy);[] 
+ []
+
+
+Overfull \hbox (85.96524pt too wide) in paragraph at lines 818--818
+[]                    \T2A/cmtt/m/n/14.4 estimation.Points.AddXY(samsungValues[
+i].Date, copy[i]);[] 
+ []
+
+[40]
+Overfull \hbox (12.88159pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 else if (predictorFactory.Type == PredictorTyp
+es.ARMA)[] 
+ []
+
+
+Overfull \hbox (144.43216pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 List<Double> prediction = ARMAPredictor.Pr
+edictList(copy, accuracy);[] 
+ []
+
+
+Overfull \hbox (129.81543pt too wide) in paragraph at lines 818--818
+[]                    \T2A/cmtt/m/n/14.4 estimation.Points.AddXY(samsungValues[
+i].Date, prediction[i]);[] 
+ []
+
+
+Overfull \hbox (5.57323pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 else if (predictorFactory.Type == PredictorTyp
+es.SSA)[] 
+ []
+
+
+Overfull \hbox (137.1238pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 List<double> predictedValues1 = SSAPredict
+or.PredictList(temp, 10);[] 
+ []
+
+
+Overfull \hbox (173.66562pt too wide) in paragraph at lines 818--818
+[]                    \T2A/cmtt/m/n/14.4 estimation.Points.AddXY(samsungValues[
+i].Date, predictedValues1[i]);[] 
+ []
+
+[41]
+Overfull \hbox (107.89034pt too wide) in paragraph at lines 818--818
+[]        \T2A/cmtt/m/n/14.4 private void ComboBox1_SelectedIndexChanged(object
+ sender, EventArgs e)[] 
+ []
+
+
+Overfull \hbox (137.1238pt too wide) in paragraph at lines 818--818
+[]                \T2A/cmtt/m/n/14.4 series.Points.AddXY(samsungValues[i].Date,
+ samsungValues[i].Value);[] 
+ []
+
+
+Overfull \hbox (115.1987pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 List<Double> estimated = values.MovingAverage(
+200).ToList<Double>();[] 
+ []
+
+
+Overfull \hbox (27.49832pt too wide) in paragraph at lines 818--818
+[]                    \T2A/cmtt/m/n/14.4 estimation.Points.AddXY(date, estimate
+d[i-200]);[] 
+ []
+
+[42]
+Overfull \hbox (290.59946pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 MA5.Text = $"MA5 - {values.MovingAverage(5).To
+List<Double>()[values.Count - 1].ToString()}";[] 
+ []
+
+
+Overfull \hbox (312.52455pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 MA10.Text = $"MA10 - {values.MovingAverage(10)
+.ToList<Double>()[values.Count - 1].ToString()}";[] 
+ []
+
+
+Overfull \hbox (312.52455pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 MA20.Text = $"MA20 - {values.MovingAverage(20)
+.ToList<Double>()[values.Count - 1].ToString()}";[] 
+ []
+
+
+Overfull \hbox (312.52455pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 MA50.Text = $"MA50 - {values.MovingAverage(50)
+.ToList<Double>()[values.Count - 1].ToString()}";[] 
+ []
+
+
+Overfull \hbox (334.44965pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 MA100.Text = $"MA100 - {values.MovingAverage(1
+00).ToList<Double>()[values.Count - 1].ToString()}";[] 
+ []
+
+
+Overfull \hbox (334.44965pt too wide) in paragraph at lines 818--818
+[]            \T2A/cmtt/m/n/14.4 MA200.Text = $"MA200 - {values.MovingAverage(2
+00).ToList<Double>()[values.Count - 1].ToString()}";[] 
+ []
+
+[43]
+Overfull \hbox (42.11505pt too wide) in paragraph at lines 859--859
+[]        \T2A/cmtt/m/n/14.4 public double? PredictValue(List<Double> values, i
+nt accuracy)[] 
+ []
+
+
+Overfull \hbox (78.65688pt too wide) in paragraph at lines 859--859
+[]                    \T2A/cmtt/m/n/14.4 predictedValue = MAPredictor.Predict(v
+alues, accuracy);[] 
+ []
+
+
+Overfull \hbox (93.2736pt too wide) in paragraph at lines 859--859
+[]                    \T2A/cmtt/m/n/14.4 predictedValue = ARMAPredictor.Predict
+(values, accuracy);[] 
+ []
+
+
+Overfull \hbox (85.96524pt too wide) in paragraph at lines 859--859
+[]                    \T2A/cmtt/m/n/14.4 predictedValue = SSAPredictor.Predict(
+values, accuracy);[] 
+ []
+
+[44]
+Overfull \hbox (49.42342pt too wide) in paragraph at lines 910--910
+[]        \T2A/cmtt/m/n/14.4 /// Predicts next number using MA methond with def
+ined accuracy[] 
+ []
+
+
+Overfull \hbox (100.58197pt too wide) in paragraph at lines 910--910
+[]        \T2A/cmtt/m/n/14.4 /// <param name="accuracy">Number of last items in
+ time series</param>[] 
+ []
+
+
+Overfull \hbox (49.42342pt too wide) in paragraph at lines 910--910
+[]        \T2A/cmtt/m/n/14.4 public static double Predict(List<Double> values, 
+int accuracy)[] 
+ []
+
+
+Overfull \hbox (122.50706pt too wide) in paragraph at lines 910--910
+[]        \T2A/cmtt/m/n/14.4 public static List<Double> PredictList(List<Double
+> values, int accuracy)[] 
+ []
+
+[45]
+Overfull \hbox (49.42342pt too wide) in paragraph at lines 1016--1016
+[]        \T2A/cmtt/m/n/14.4 public static double Predict(List<Double> values, 
+int accuracy)[] 
+ []
+
+
+Overfull \hbox (85.96524pt too wide) in paragraph at lines 1016--1016
+[]            \T2A/cmtt/m/n/14.4 double epsilon = Normal.Sample(0.0, values.Sta
+ndardDeviation());[] 
+ []
+
+
+Overfull \hbox (202.89908pt too wide) in paragraph at lines 1016--1016
+[]            \T2A/cmtt/m/n/14.4 double X = epsilon + MAPredictor.Predict(value
+s, accuracy) + ARModel(values, 2);[] 
+ []
+
+
+Overfull \hbox (122.50706pt too wide) in paragraph at lines 1016--1016
+[]        \T2A/cmtt/m/n/14.4 public static List<Double> PredictList(List<Double
+> values, int accuracy)[] 
+ []
+
+
+Overfull \hbox (49.42342pt too wide) in paragraph at lines 1016--1016
+[]            \T2A/cmtt/m/n/14.4 double[] coefficients = GetCoefficients(values
+, parameter);[] 
+ []
+
+
+Overfull \hbox (93.2736pt too wide) in paragraph at lines 1016--1016
+[]            \T2A/cmtt/m/n/14.4 List<Double> maModel = MAPredictor.PredictList
+(values, accuracy);[] 
+ []
+
+[46]
+Overfull \hbox (115.1987pt too wide) in paragraph at lines 1016--1016
+[]                \T2A/cmtt/m/n/14.4 double epsilon = Normal.Sample(0.0, values
+.StandardDeviation());[] 
+ []
+
+
+Overfull \hbox (107.89034pt too wide) in paragraph at lines 1016--1016
+[]                        \T2A/cmtt/m/n/14.4 sum += values[i - j] * coefficient
+s[parameter - j - 1];[] 
+ []
+
+
+Overfull \hbox (334.44965pt too wide) in paragraph at lines 1016--1016
+[]        \T2A/cmtt/m/n/14.4 private static double StandardDeviation(List<Doubl
+e> values) //Sample Variance i.e. standard deviation[] 
+ []
+
+
+Overfull \hbox (42.11505pt too wide) in paragraph at lines 1016--1016
+[]            \T2A/cmtt/m/n/14.4 List<Double> squaredDiff = new List<Double>(va
+lues.Count);[] 
+ []
+
+
+Overfull \hbox (20.18996pt too wide) in paragraph at lines 1016--1016
+[]                \T2A/cmtt/m/n/14.4 squaredDiff[i] = Math.Pow((values[i] - mea
+n), 2.0);[] 
+ []
+
+[47]
+Overfull \hbox (137.1238pt too wide) in paragraph at lines 1016--1016
+[]        \T2A/cmtt/m/n/14.4 private static double[] GetCoefficients(List<Doubl
+e> values, int parameter)[] 
+ []
+
+
+Overfull \hbox (414.84166pt too wide) in paragraph at lines 1016--1016
+[]                    \T2A/cmtt/m/n/14.4 upper += (values[values.Count - j] - v
+alues.Mean()) * (values[values.Count - j - i] - values.Mean());[] 
+ []
+
+
+Overfull \hbox (180.97398pt too wide) in paragraph at lines 1016--1016
+[]                    \T2A/cmtt/m/n/14.4 lower += Math.Pow(values[values.Count 
+- j - 1] - values.Mean(), 2.0);[] 
+ []
+
+
+Overfull \hbox (64.04015pt too wide) in paragraph at lines 1016--1016
+[]        \T2A/cmtt/m/n/14.4 private static double ARModel(List<Double> values,
+ int parameter)[] 
+ []
+
+
+Overfull \hbox (49.42342pt too wide) in paragraph at lines 1016--1016
+[]            \T2A/cmtt/m/n/14.4 double[] coefficients = GetCoefficients(values
+, parameter);[] 
+ []
+
+[48]
+Overfull \hbox (180.97398pt too wide) in paragraph at lines 1016--1016
+[]                \T2A/cmtt/m/n/14.4 result += values[values.Count - i - 1] * c
+oefficients[parameter - i - 1];[] 
+ []
+
+
+Overfull \hbox (49.42342pt too wide) in paragraph at lines 1120--1120
+[]        \T2A/cmtt/m/n/14.4 public static double Predict(List<Double> values, 
+int accuracy)[] 
+ []
+
+
+Overfull \hbox (122.50706pt too wide) in paragraph at lines 1120--1120
+[]        \T2A/cmtt/m/n/14.4 public static List<Double> PredictList(List<Double
+> values, int accuracy)[] 
+ []
+
+[49]
+Overfull \hbox (173.66562pt too wide) in paragraph at lines 1120--1120
+[]            \T2A/cmtt/m/n/14.4 List<Double> rec = new List<Double>(Reconstruc
+t(values, accuracy).ToList());[] 
+ []
+
+
+Overfull \hbox (115.1987pt too wide) in paragraph at lines 1120--1120
+[]        \T2A/cmtt/m/n/14.4 private static Matrix<Double> BuildTrayectoryMatri
+x(List<Double> values)[] 
+ []
+
+
+Overfull \hbox (312.52455pt too wide) in paragraph at lines 1120--1120
+[]        \T2A/cmtt/m/n/14.4 private static Matrix<Double> SVD(List<Double> val
+ues, int accuracy) //Singular Value Decomposition[] 
+ []
+
+[50]
+Overfull \hbox (144.43216pt too wide) in paragraph at lines 1120--1120
+[]        \T2A/cmtt/m/n/14.4 private static Vector<Double> Reconstruct(List<Dou
+ble> values, int accuracy)[] 
+ []
+
+
+Overfull \hbox (195.59071pt too wide) in paragraph at lines 1120--1120
+[]                    \T2A/cmtt/m/n/14.4 y[k + 1] += /*(1 / (Double.Parse(k.ToS
+tring()) + 1)) **/ rca[m, k - m];[] 
+ []
+
+
+Overfull \hbox (159.04889pt too wide) in paragraph at lines 1120--1120
+[]                    \T2A/cmtt/m/n/14.4 y[k + 1] += /*(1 / Double.Parse(Lp.ToS
+tring())) **/ rca[m, k - m];[] 
+ []
+
+[51]
+Overfull \hbox (195.59071pt too wide) in paragraph at lines 1120--1120
+[]                    \T2A/cmtt/m/n/14.4 y[k + 1] += /*(1 / Double.Parse((N - K
+).ToString())) **/ rca[m, k - m];[] 
+ []
+
+[52]
+Overfull \hbox (5.57323pt too wide) in paragraph at lines 1170--1170
+[]            \T2A/cmtt/m/n/14.4 Application.SetCompatibleTextRenderingDefault(
+false);[] 
+ []
+
+[53]
+Overfull \hbox (20.18996pt too wide) in paragraph at lines 1447--1447
+[]        \T2A/cmtt/m/n/14.4 private System.ComponentModel.IContainer component
+s = null;[] 
+ []
+
+
+Overfull \hbox (327.14128pt too wide) in paragraph at lines 1447--1447
+[]        \T2A/cmtt/m/n/14.4 /// <param name="disposing">истинно, если управляе
+мый ресурс должен быть удален; иначе ложно.</param>[] 
+ []
+
+
+Overfull \hbox (49.42342pt too wide) in paragraph at lines 1447--1447
+[]        \T2A/cmtt/m/n/14.4 #region Код, автоматически созданный конструктором
+ форм Windows[] 
+ []
+
+
+Overfull \hbox (34.80669pt too wide) in paragraph at lines 1447--1447
+[]        \T2A/cmtt/m/n/14.4 /// Требуемый метод для поддержки конструктора  н
+е изменяйте[] 
+ []
+
+
+Overfull \hbox (604.85915pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 System.Windows.Forms.DataVisualization.Chartin
+g.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.Ch
+artArea();[] 
+ []
+
+
+Overfull \hbox (539.08386pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 System.Windows.Forms.DataVisualization.Chartin
+g.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend()
+;[] 
+ []
+
+
+Overfull \hbox (539.08386pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 System.Windows.Forms.DataVisualization.Chartin
+g.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series()
+;[] 
+ []
+
+[54]
+Overfull \hbox (137.1238pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.bar = new System.Windows.Forms.DataVisual
+ization.Charting.Chart();[] 
+ []
+
+
+Overfull \hbox (5.57323pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.comboBox1 = new System.Windows.Forms.Comb
+oBox();[] 
+ []
+
+
+Overfull \hbox (107.89034pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 ((System.ComponentModel.ISupportInitialize)(th
+is.bar)).BeginInit();[] 
+ []
+
+
+Overfull \hbox (34.80669pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button1.Location = new System.Drawing.Poi
+nt(12, 33);[] 
+ []
+
+
+Overfull \hbox (100.58197pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button1.Click += new System.EventHandler(
+this.button1_Click);[] 
+ []
+
+
+Overfull \hbox (34.80669pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button2.Location = new System.Drawing.Poi
+nt(94, 32);[] 
+ []
+
+[55]
+Overfull \hbox (100.58197pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button2.Click += new System.EventHandler(
+this.button2_Click);[] 
+ []
+
+
+Overfull \hbox (663.32607pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.textBox1.Anchor = ((System.Windows.Forms.
+AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.An
+chorStyles.Bottom)[] 
+ []
+
+
+Overfull \hbox (27.49832pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.textBox1.ImeMode = System.Windows.Forms.I
+meMode.On;[] 
+ []
+
+
+Overfull \hbox (42.11505pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.textBox1.Location = new System.Drawing.Po
+int(13, 81);[] 
+ []
+
+
+Overfull \hbox (20.18996pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.textBox1.Size = new System.Drawing.Size(2
+58, 335);[] 
+ []
+
+
+Overfull \hbox (202.89908pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.textBox1.TextChanged += new System.EventH
+andler(this.textBox1_TextChanged);[] 
+ []
+
+
+Overfull \hbox (27.49832pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.label1.Location = new System.Drawing.Poin
+t(10, 65);[] 
+ []
+
+
+Overfull \hbox (85.96524pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.label1.Click += new System.EventHandler(t
+his.label1_Click);[] 
+ []
+
+
+Overfull \hbox (42.11505pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button3.Location = new System.Drawing.Poi
+nt(277, 55);[] 
+ []
+
+[56]
+Overfull \hbox (5.57323pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button3.Size = new System.Drawing.Size(12
+1, 23);[] 
+ []
+
+
+Overfull \hbox (100.58197pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button3.Click += new System.EventHandler(
+this.button3_Click);[] 
+ []
+
+
+Overfull \hbox (12.88159pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.bar.Location = new System.Drawing.Point(2
+77, 81);[] 
+ []
+
+
+Overfull \hbox (290.59946pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.bar.Palette = System.Windows.Forms.DataVi
+sualization.Charting.ChartColorPalette.Bright;[] 
+ []
+
+
+Overfull \hbox (42.11505pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.comboBox1.Cursor = System.Windows.Forms.C
+ursors.Hand;[] 
+ []
+
+
+Overfull \hbox (56.73178pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.comboBox1.Location = new System.Drawing.P
+oint(405, 55);[] 
+ []
+
+[57]
+Overfull \hbox (20.18996pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.comboBox1.Size = new System.Drawing.Size(
+121, 21);[] 
+ []
+
+
+Overfull \hbox (349.06638pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.comboBox1.SelectedIndexChanged += new Sys
+tem.EventHandler(this.ComboBox1_SelectedIndexChanged);[] 
+ []
+
+
+Overfull \hbox (34.80669pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.label2.Location = new System.Drawing.Poin
+t(402, 38);[] 
+ []
+
+
+Overfull \hbox (27.49832pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.panel1.Location = new System.Drawing.Poin
+t(620, 3);[] 
+ []
+
+[58]
+Overfull \hbox (5.57323pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.MA10.Location = new System.Drawing.Point(
+4, 29);[] 
+ []
+
+
+Overfull \hbox (5.57323pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.MA20.Location = new System.Drawing.Point(
+4, 52);[] 
+ []
+
+
+Overfull \hbox (12.88159pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.MA50.Location = new System.Drawing.Point(
+137, 4);[] 
+ []
+
+[59]
+Overfull \hbox (27.49832pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.MA100.Location = new System.Drawing.Point
+(137, 29);[] 
+ []
+
+
+Overfull \hbox (27.49832pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.MA200.Location = new System.Drawing.Point
+(137, 52);[] 
+ []
+
+
+Overfull \hbox (42.11505pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button4.Location = new System.Drawing.Poi
+nt(536, 12);[] 
+ []
+
+
+Overfull \hbox (100.58197pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.button4.Click += new System.EventHandler(
+this.Button4_Click);[] 
+ []
+
+
+Overfull \hbox (64.04015pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.AutoScaleDimensions = new System.Drawing.
+SizeF(6F, 13F);[] 
+ []
+
+
+Overfull \hbox (64.04015pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.AutoScaleMode = System.Windows.Forms.Auto
+ScaleMode.Font;[] 
+ []
+
+
+Overfull \hbox (122.50706pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.BackColor = System.Drawing.SystemColors.G
+radientInactiveCaption;[] 
+ []
+
+[60]
+Overfull \hbox (20.18996pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 this.Shown += new System.EventHandler(this.For
+m1_Load);[] 
+ []
+
+
+Overfull \hbox (93.2736pt too wide) in paragraph at lines 1447--1447
+[]            \T2A/cmtt/m/n/14.4 ((System.ComponentModel.ISupportInitialize)(th
+is.bar)).EndInit();[] 
+ []
+
+
+Overfull \hbox (71.34851pt too wide) in paragraph at lines 1447--1447
+[]        \T2A/cmtt/m/n/14.4 private System.Windows.Forms.DataVisualization.Cha
+rting.Chart bar;[] 
+ []
+
+[61]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1449.
+ [62]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1449.
  (C:\!repositories\diploma\tex\diploma.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1449.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1449.
+
 Package rerunfilecheck Info: File `diploma.out' has not changed.
-(rerunfilecheck)             Checksum: 4141D04145480B6EBBBA646C92F9810A;9409.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 310.
+(rerunfilecheck)             Checksum: 11658516092B1A32C8AB52CB7C2ACF9A;10645.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1449.
  ) 
 Here is how much of TeX's memory you used:
- 12312 strings out of 493921
- 178887 string characters out of 3150556
- 248782 words of memory out of 3000000
- 15346 multiletter control sequences out of 15000+200000
+ 12456 strings out of 493921
+ 180505 string characters out of 3150556
+ 249417 words of memory out of 3000000
+ 15379 multiletter control sequences out of 15000+200000
  14431 words of font info for 36 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 49i,10n,45p,1186b,586s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.10} has been referenced but does not exi
+ 49i,10n,45p,1186b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.18} has been referenced but does not exi
 st, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.8} has been referenced but does not exist,
+pdfTeX warning (dest): name{section*.17} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.16} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
  replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
+pdfTeX warning (dest): name{section*.4} has been referenced but does not exist,
  replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.3} has been referenced but does not exist,
@@ -729,9 +1555,9 @@ m-super/sftt1440.pfb><C:/Users/Tortopus/Desktop/Full_TeX/localtexmf/fonts/type1
 /public/pscyr/times.pfb><C:/Users/Tortopus/Desktop/Full_TeX/localtexmf/fonts/ty
 pe1/public/pscyr/timesbd.pfb><C:/Users/Tortopus/Desktop/Full_TeX/localtexmf/fon
 ts/type1/public/pscyr/timesbi.pfb>
-Output written on diploma.pdf (22 pages, 279133 bytes).
+Output written on diploma.pdf (62 pages, 544189 bytes).
 PDF statistics:
- 360 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 655 PDF objects out of 1000 (max. 8388607)
+ 188 named destinations out of 1000 (max. 500000)
+ 339 words of extra memory for PDF output out of 10000 (max. 10000000)
 

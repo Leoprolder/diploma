@@ -2,14 +2,13 @@
 
 \begin{thebibliography}{21}
 \addcontentsline{toc}{section}{ \hspace{-0.9cm}СПИСОК ЛИТЕРАТУРЫ}%название списка литературы в оглавлении
-
-\bibitem{Book} Первый А.А. Название книги / А.А.~Первый, Б.Б.~Второй. -- Город: Издательство, год.\vspace{-2mm}
-\bibitem{Article}  Первый А.А. Название статьи / А.А.~Первый, Б.Б.~Второй // Название журнала. -- год. -- Т.~том, \No~номер. -- С.~стр--стр.
-\bibitem{Book_eng} Author A.A., Author B.B. \textit{Title of Book}. Сity, Publisher, Year.
-\bibitem{Article_eng} Author A.A., Author B.B. Title of Article. {\it Title of Journal}, Year, vol.~8, no.~1, issue~1, pp.~11--111.
-\bibitem{E-journal} Author A.A., Author B.B. Title of Article. {\it Title of Journal}, Year, vol.~8, no.~1, issue~1, available at: www.cite.
-\bibitem{DOI_1 Article} Author A.A., Author B.B. Title of Article. {\it Title of Journal}, Year, vol.~8, no.~1, issue~1, pp.~11--111. doi:~10.1002/adma.200501500
-\bibitem{DOI_2 Article} Author A.A., Author B.B. Title of Article. {\it Title of Journal}, Year, vol.~8, no.~1, issue~1, pp.~11--111. doi:~10.1134/S1023193508080077
-\bibitem{materials of a conference_eng} Author A.A., Author B.B. Title of Report. {\it Title of Conference}. Сity, Publisher, Year, pp.~11--111.
-\bibitem{Inet source} Название ресурса, доступ: http://www.attribution (дата обращения -- 18 мая 2019).
+\bibitem{Inet source1} Investing.com, доступ: https://investing.com/ (дата обращения -- 21 июня 2019).
+\bibitem{Inet source2} GitHub.com, доступ: https://github.com/zzzprojects/html-agility-pack/tree/master/docs2/pages/documentations (дата обращения -- 7 июня 2019).
+\bibitem{Book1} А. А. Жиглявский, В. Н. Солнцев: "Главные компоненты временных рядов: метод "Гусеница".
+\bibitem{Book2} Тихомиров, Н. П. Эконометрика учеб. для вузов по специальности "Мат. методы в экономике" Н. П. Тихомиров, Е. Ю. Дорохина ; Рос. экон. акад. им. Г. В. Плеханова. - 2-е изд., стер. - М.: Экзамен, 2007. - 510 с. граф.
+\bibitem{Book3} С. А. Бардасов. ЭКОНОМЕТРИКА: учебное пособие. 2-е изд., пере- раб. и доп. Тюмень: Издательство Тюменского государственного университета,2010. 264 с.. 2010.
+\bibitem{Inet source3} MachineLearning.ru, доступ: http://www.machinelearning.ru/wiki/index.php?title=ARMA (дата обращения -- 25 июня).
+\bibitem{Inet source4} MathDotNet.com, доступ: https://www.mathdotnet.com/ (дата обращения -- 25 июня).
+\bibitem{Inet source5} Microsoft.com, доступ: https://docs.microsoft.com/ru-ru/dotnet/csharp/ (дата обращения -- 25 июня).
+\bibitem{Inet source6} Metanit.com, доступ: https://metanit.com/sharp/ (дата обращения -- 25 июня).
 \end{thebibliography} 
