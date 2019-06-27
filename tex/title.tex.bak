@@ -6,7 +6,7 @@
 \begin{minipage}{0.5\textwidth}
   \begin{flushleft}
 	\singleint{РАБОТА ПРОВЕРЕНА
-\forsignature{Рецензент, \verb"доцент кафедры УМФ,"}{\verb"к.ф.-м.н., доцент"}{\verb"И.И. Иванов "}}
+\forsignature{Рецензент, Юрков Виктор Викторович}
   \end{flushleft}
 \end{minipage}
 \begin{minipage}{0.5\textwidth}
@@ -23,7 +23,7 @@
 
 \begin{center}
 \singleint{ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА
-ЮУрГУ – 02.03.01.2019.35.ПЗ ВКР%код вида 35.ПЗ списать из своей зачетки
+ЮУрГУ – 02.03.01.2019.31.ПЗ ВКР%код вида 35.ПЗ списать из своей зачетки
 }
 \end{center}
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  28 JUN 2019 01:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  28 JUN 2019 01:50
 entering extended mode
 **C:/!repositories/diploma/tex/diploma.tex
 (C:/!repositories/diploma/tex/diploma.tex
@@ -544,11 +544,6 @@ LaTeX Info: Redefining \nameref on input line 6.
 \@outlinefile=\write3
 
 (C:\!repositories\diploma\tex\title.tex
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 9.
-
-(C:\Users\Tortopus\Desktop\Full_TeX\texmf\tex\latex\cyrillic\t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
 LaTeX Font Info:    Try loading font information for U+msa on input line 9.
 
 (C:\Users\Tortopus\Desktop\Full_TeX\texmf\tex\latex\amsfonts\umsa.fd
@@ -634,21 +629,21 @@ Overfull \hbox (33.36607pt too wide) in paragraph at lines 248--249
 tml-код веб-страницы
  []
 
-[17] <images/git-stages.PNG, id=340, 368.37625pt x 408.52625pt>
+[17] <images/git-stages.PNG, id=339, 368.37625pt x 408.52625pt>
 File: images/git-stages.PNG Graphic file (type png)
 
 <use images/git-stages.PNG>
 Package pdftex.def Info: images/git-stages.PNG used on input line 271.
 (pdftex.def)             Requested size: 375.57782pt x 416.51048pt.
  [18] [19 <C:/!repositories/diploma/tex/images/git-stages.PNG>] <images/git.PNG
-, id=363, 447.92343pt x 283.0575pt>
+, id=362, 447.92343pt x 283.0575pt>
 File: images/git.PNG Graphic file (type png)
 
 <use images/git.PNG>
 Package pdftex.def Info: images/git.PNG used on input line 288.
 (pdftex.def)             Requested size: 375.57782pt x 237.3477pt.
  [20 <C:/!repositories/diploma/tex/images/git.PNG>]
-<images/algorithm.PNG, id=370, 121.45375pt x 573.14125pt>
+<images/algorithm.PNG, id=369, 121.45375pt x 573.14125pt>
 File: images/algorithm.PNG Graphic file (type png)
 
 <use images/algorithm.PNG>
@@ -663,7 +658,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: Text page 22 contains only floats.
 
 [22 <C:/!repositories/diploma/tex/images/algorithm.PNG>]
-<images/PredictorFactoryUml.PNG, id=388, 693.59125pt x 324.21124pt>
+<images/PredictorFactoryUml.PNG, id=387, 693.59125pt x 324.21124pt>
 File: images/PredictorFactoryUml.PNG Graphic file (type png)
 
 <use images/PredictorFactoryUml.PNG>
@@ -671,7 +666,7 @@ Package pdftex.def Info: images/PredictorFactoryUml.PNG used on input line 332.
 
 (pdftex.def)             Requested size: 469.47049pt x 219.45647pt.
  [23 <C:/!repositories/diploma/tex/images/PredictorFactoryUml.PNG>] [24] [25]
-<images/analitycsAlgorithm.PNG, id=413, 382.42876pt x 703.62875pt>
+<images/analitycsAlgorithm.PNG, id=412, 382.42876pt x 703.62875pt>
 File: images/analitycsAlgorithm.PNG Graphic file (type png)
 
 <use images/analitycsAlgorithm.PNG>
@@ -686,14 +681,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: Text page 27 contains only floats.
 
 [27 <C:/!repositories/diploma/tex/images/analitycsAlgorithm.PNG>]
-<images/example.PNG, id=426, 703.87968pt x 350.81062pt>
+<images/example.PNG, id=425, 703.87968pt x 350.81062pt>
 File: images/example.PNG Graphic file (type png)
 
 <use images/example.PNG>
 Package pdftex.def Info: images/example.PNG used on input line 404.
 (pdftex.def)             Requested size: 469.47049pt x 233.98201pt.
 
-<images/example1.PNG, id=428, 703.87968pt x 350.81062pt>
+<images/example1.PNG, id=427, 703.87968pt x 350.81062pt>
 File: images/example1.PNG Graphic file (type png)
 
 <use images/example1.PNG>
@@ -704,7 +699,7 @@ Package pdftex.def Info: images/example1.PNG used on input line 413.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [28 <C:/!repositories/diploma/tex/images/example.PNG>]
-<images/exampleDdl.PNG, id=436, 703.87968pt x 350.81062pt>
+<images/exampleDdl.PNG, id=435, 703.87968pt x 350.81062pt>
 File: images/exampleDdl.PNG Graphic file (type png)
 
 <use images/exampleDdl.PNG>
@@ -712,14 +707,14 @@ Package pdftex.def Info: images/exampleDdl.PNG used on input line 424.
 (pdftex.def)             Requested size: 469.47049pt x 233.98201pt.
  [29 <C:/!repositories/diploma/tex/images/example1.PNG> <C:/!repositories/diplo
 ma/tex/images/exampleDdl.PNG>]
-<images/exampleArma.PNG, id=443, 703.87968pt x 350.81062pt>
+<images/exampleArma.PNG, id=442, 703.87968pt x 350.81062pt>
 File: images/exampleArma.PNG Graphic file (type png)
 
 <use images/exampleArma.PNG>
 Package pdftex.def Info: images/exampleArma.PNG used on input line 435.
 (pdftex.def)             Requested size: 469.47049pt x 233.98201pt.
  [30 <C:/!repositories/diploma/tex/images/exampleArma.PNG>] <images/ssa.PNG, id
-=450, 703.87968pt x 350.81062pt>
+=449, 703.87968pt x 350.81062pt>
 File: images/ssa.PNG Graphic file (type png)
 
 <use images/ssa.PNG>
@@ -731,7 +726,7 @@ Overfull \hbox (24.37695pt too wide) in paragraph at lines 455--455
 ng Electronics
  []
 
-<images/predict.PNG, id=452, 703.87968pt x 350.81062pt>
+<images/predict.PNG, id=451, 703.87968pt x 350.81062pt>
 File: images/predict.PNG Graphic file (type png)
 
 <use images/predict.PNG>
@@ -739,7 +734,7 @@ Package pdftex.def Info: images/predict.PNG used on input line 460.
 (pdftex.def)             Requested size: 469.47049pt x 233.98201pt.
  [31 <C:/!repositories/diploma/tex/images/ssa.PNG>]
 [32 <C:/!repositories/diploma/tex/images/predict.PNG>]
-<images/investing.PNG, id=465, 250.68657pt x 294.34969pt>
+<images/investing.PNG, id=464, 250.68657pt x 294.34969pt>
 File: images/investing.PNG Graphic file (type png)
 
 <use images/investing.PNG>
@@ -771,6 +766,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
  []
 
 ) [38]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 524
+.
+ (C:\Users\Tortopus\Desktop\Full_TeX\texmf\tex\latex\cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 Overfull \hbox (107.89034pt too wide) in paragraph at lines 839--839
 []        \T2A/cmtt/m/n/14.4 System.Windows.Forms.Timer tSamsung = new System.W
 indows.Forms.Timer();[] 
@@ -1573,8 +1573,8 @@ pdfTeX warning (dest): name{section*.3} has been referenced but does not exist,
 pdfTeX warning (dest): name{section*.2} has been referenced but does not exist,
  replaced by a fixed one
 
-{C:/Users/Tortopus/Desktop/Full_TeX/texmf/fonts/enc/t2/t2a.enc}{C:/Users/Tortop
-us/Desktop/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Users/T
+{C:/Users/Tortopus/Desktop/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a
+.enc}{C:/Users/Tortopus/Desktop/Full_TeX/texmf/fonts/enc/t2/t2a.enc}<C:/Users/T
 ortopus/Desktop/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Us
 ers/Tortopus/Desktop/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 C:/Users/Tortopus/Desktop/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi12.
@@ -1586,7 +1586,7 @@ m-super/sftt1440.pfb><C:/Users/Tortopus/Desktop/Full_TeX/localtexmf/fonts/type1
 /public/pscyr/times.pfb><C:/Users/Tortopus/Desktop/Full_TeX/localtexmf/fonts/ty
 pe1/public/pscyr/timesbd.pfb><C:/Users/Tortopus/Desktop/Full_TeX/localtexmf/fon
 ts/type1/public/pscyr/timesbi.pfb>
-Output written on diploma.pdf (67 pages, 632457 bytes).
+Output written on diploma.pdf (67 pages, 631550 bytes).
 PDF statistics:
  706 PDF objects out of 1000 (max. 8388607)
  206 named destinations out of 1000 (max. 500000)
