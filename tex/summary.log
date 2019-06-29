@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  26 JUN 2019 02:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  29 JUN 2019 12:10
 entering extended mode
-**C:/!repositories/diploma/tex/summary.tex
-(C:/!repositories/diploma/tex/summary.tex
+**D:/repositories/diploma/tex/summary.tex
+(D:/repositories/diploma/tex/summary.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -45,7 +45,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 9.
 ! Undefined control sequence.
 l.11  \singleint
-                {Клепиков А.С. - Анализ и прогнозирование цен акций «Samsung...
+                {Клепиков А.С. -- Анализ и прогнозирование динамики цен акци...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -64,6 +64,7 @@ Missing character: There is no А in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no С in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no А in font nullfont!
 Missing character: There is no н in font nullfont!
@@ -87,6 +88,14 @@ Missing character: There is no а in font nullfont!
 Missing character: There is no н in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no е in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no и in font nullfont!
 Missing character: There is no ц in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no н in font nullfont!
@@ -142,14 +151,14 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no , in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 8 in font nullfont!
 Missing character: There is no с in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no л in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -170,7 +179,8 @@ Missing character: There is no с in font nullfont!
 Missing character: There is no о in font nullfont!
 Missing character: There is no к in font nullfont!
 Missing character: There is no – in font nullfont!
-Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
 Missing character: There is no н in font nullfont!
 Missing character: There is no а in font nullfont!
 Missing character: There is no и in font nullfont!
@@ -787,17 +797,17 @@ Missing character: There is no и in font nullfont!
 Missing character: There is no . in font nullfont!
 )
 ! Emergency stop.
-<*> C:/!repositories/diploma/tex/summary.tex
-                                            
+<*> D:/repositories/diploma/tex/summary.tex
+                                           
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
  9 strings out of 493921
- 202 string characters out of 3150556
+ 199 string characters out of 3150556
  49031 words of memory out of 3000000
  3402 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 20i,2n,18p,330b,83s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 20i,2n,18p,329b,83s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
